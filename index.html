@@ -80,6 +80,15 @@ nav a:hover {
   color: var(--accent-sage);
 }
 
+.logo-text {
+  color: #fff;
+  text-decoration: none;
+}
+
+.logo-text:hover {
+  color: var(--accent-sage);
+}
+
 /* HERO SECTION */
 .hero {
   height: 100vh;
@@ -643,7 +652,7 @@ img {
 <header>
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="images/Mi-Cha Logo.png" alt="Mi-Cha Logo" class="logo">
-    <h1>MICHA</h1>
+    <h1><a href="#home" class="logo-text">MICHA</a></h1>
   </div>
   <nav>
     <a href="#featured">Menu</a>
@@ -653,7 +662,7 @@ img {
   </nav>
 </header>
 
-<section class="hero">
+<section id="home" class="hero">
   <div class="hero-content">
     <h2>Pure Ceremonial Moments</h2>
     <p>Handcrafted matcha and hojicha experiences that speak to both the palate and the soul.</p>
