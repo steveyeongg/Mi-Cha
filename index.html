@@ -164,10 +164,6 @@ nav a:hover {
   direction: ltr;
 }
 
-.featured-item:nth-child(even) > * {
-  direction: ltr;
-}
-
 .featured-image {
   text-align: center;
 }
@@ -410,12 +406,13 @@ footer a:hover {
   }
 
   .featured-item{
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 40px;
     margin-bottom: 60px;
   }
 
   .featured-item:nth-child(even){
+    grid-template-columns: 1fr 1fr;
     direction: ltr;
   }
 
