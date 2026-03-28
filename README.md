@@ -38,7 +38,7 @@ Rich, toasty, caramel and chocolate notes. Our hojicha is fire-roasted to perfec
 ✓ **Hand-Whisked, Not Pre-Made** — Crafted fresh with every order  
 ✓ **Pure Genuine Honey** — Replace sugar with natural sweetness  
 ✓ **Healthy Plant-Based Milk** — No extra charges for conscious choices  
-✓ **Generous Portions** — 12oz cup size, only ⅓ filled with ice  
+✓ **Generous Portions** — 12oz cup size
 
 ---
 
